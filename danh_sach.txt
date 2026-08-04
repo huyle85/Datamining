@@ -1,0 +1,4 @@
+MSSV,Họ Tên,Điểm
+01,Nguyễn Văn Huy,8.5
+02,Trần Thị Bảnh,9.0
+03,Lê Văn Hi,7.5
